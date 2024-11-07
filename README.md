@@ -1,7 +1,4 @@
-# Second-Project
-**New Fleet Management Project Unveiled! 🚀**
 
-I'm thrilled to share my latest Fleet Management project, where I leveraged data analysis to uncover impactful insights that drive operational efficiency.
 
 **- The Journey Begins: Data Exploration**  
 I kicked off this project by diving deep into our data, identifying essential **Key Performance Indicators (KPIs)** such as:  
